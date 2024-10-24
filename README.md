@@ -1,6 +1,6 @@
 - Hi, I’m Stephen Sugirto
-- I’m interested in IoT and full-stack web development.
-- I’m currently learning ReactJS and NodeJS
+- I'm a self-motivated person with strong problem-solving skills in code. Love to apply clean code principles and standards. Has 3 years of experience in Software Engineering.
+- Interested in Software Engineering, Data Engineering and Communication Skills. Eager to learn much more things!
 - Reach me on: stephensugiarto@hotmail.com
 
 <!---
